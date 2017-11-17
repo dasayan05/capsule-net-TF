@@ -9,4 +9,8 @@ A tiny implementation of the recently published Capsule Network by G.Hinton and 
 
 ## My implementation is still running on a 1050-TI GPU and hopefully is correct. I will add the results as soon as I can
 
+| Epoch-1 | Epoch-2 |
+| ------- | ------- |
+| 96.2%   |   --    |
+
 ### Although, my goal is not to achieve highest test-accuracy but to understand the dynamics of the network and the capsules
