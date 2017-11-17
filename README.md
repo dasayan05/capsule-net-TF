@@ -11,14 +11,14 @@ A tiny implementation of the recently published Capsule Network by G.Hinton and 
 
 > Validation Accuracies
 
-| Epoch-1 | Epoch-2 | Epoch-3 | Epoch-4 | Epcoh-5 | Epoch-6 | Epoch-7 |
-| ------- | ------- | ------- | ------- | ------- | ------- | ------- |
-|  96.2%  |  98.27  |  98.82  |  98.89  |  99.01  |  99.07  |  99.15  |
+| Epoch-1 | Epoch-2 | Epoch-3 | Epoch-4 | Epcoh-5 | Epoch-6 | Epoch-7 | Epoch-8 |
+| ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+|  96.2%  |  98.27  |  98.82  |  98.89  |  99.01  |  99.07  |  99.15  |  99.27  |
 > Okay I am not running anymore before updating the code
 
 A screenshot from tensorboard
 
-![loss](./results/loss_till_3.5k.png)
+![loss](./results/loss_till_4.5k.png)
 
 ###### Although, my goal is not to achieve highest test-accuracy but to understand the dynamics of the network and the capsules
 
