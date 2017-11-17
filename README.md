@@ -9,12 +9,16 @@ A tiny implementation of the recently published Capsule Network by G.Hinton and 
 
 ## My implementation is still running on a 1050-TI GPU and hopefully is correct. I will add the results as soon as I can
 
-| Epoch-1 | Epoch-2 | Epoch-3 |
-| ------- | ------- | ------- |
-|  96.2%  |  98.27  |  98.82  |
+> Validation Accuracies
+
+| Epoch-1 | Epoch-2 | Epoch-3 | Epoch-4 | Epcoh-5 |
+| ------- | ------- | ------- | ------- | ------- |
+|  96.2%  |  98.27  |  98.82  |  98.89  |  99.01  |
 
 A screenshot from tensorboard
 
-![loss](./results/loss_till_2k.png)
+![loss](./results/loss_till_3k.png)
 
-### Although, my goal is not to achieve highest test-accuracy but to understand the dynamics of the network and the capsules
+###### Although, my goal is not to achieve highest test-accuracy but to understand the dynamics of the network and the capsules
+
+> There is an amazing implementation (github.com/naturomics/CapsNet-Tensorflow)[https://github.com/naturomics/CapsNet-Tensorflow]. Go check it out. It helped me a little
