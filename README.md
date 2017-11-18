@@ -20,7 +20,8 @@ A screenshot from tensorboard
 
 ![loss](./results/loss_till_4.5k.png)
 
-Reconstructions
+Reconstructions:
+(I produced the reconstruction images from the end of the regularizing decoder and this is how they look like)
 
 ![reco](./results/reco_images.png)
 
