@@ -20,6 +20,10 @@ A screenshot from tensorboard
 
 ![loss](./results/loss_till_4.5k.png)
 
+Reconstructions
+
+![reco](./results/reco_images.png)
+
 ###### Although, my goal is not to achieve highest test-accuracy but to understand the dynamics of the network and the capsules
 
 > There is an amazing implementation (github.com/naturomics/CapsNet-Tensorflow)[https://github.com/naturomics/CapsNet-Tensorflow]. Go check it out. It helped me a little
